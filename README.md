@@ -182,7 +182,7 @@
     <!-- Bagian Galeri Foto -->
     <section class="gallery">
         <!-- Tambahkan foto-foto kenangan di sini -->
-        <img src="icons/ica1.jpg" alt="Kenangan 1">
+        <img src="home/ica1.jpg" alt="Kenangan 1">
         <img src="icons/ica2.jpg" alt="Kenangan 2">
         <img src="icons/ica3.jpg" alt="Kenangan 3">
         <img src="icons/ica4.jpg" alt="Kenangan 4">
